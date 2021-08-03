@@ -6,7 +6,7 @@ body {
 	max-width:960px; /* keeps from getting too large on wide screen */
 	width:90%; /* shrink to fit screen */
 	margin:auto; /* center in html element */
-	background-color:#fff;
+	background-color:pink;
 	padding:20px;
 	min-height:100%; /* keeps from getting too large on wide screen */
 	}
